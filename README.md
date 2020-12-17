@@ -5,7 +5,7 @@ Bot information
 | Nama Bot | Botline1798 |
 | --- | --- |
 | Bot basic ID | @924tymss |
-| Link webhook | https://demo.syahdanfilsafan.codes/line/echo\_bot.php |
+| Link webhook | https://demo.syahdanfilsafan.codes/line/echo_bot.php |
 | Keterangan Singkat | Aplikasi Line bot ini di buat untuk memenuhi tugas dari decoding line chat bot. melalui aplikasi ini kita dapat melakukan berbagai fungsi untuk melakukan transaksi produk. |
 
 V ![](RackMultipart20201217-4-1giu2xt_html_bd1e180d4f6b3206.png)

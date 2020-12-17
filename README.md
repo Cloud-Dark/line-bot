@@ -7,10 +7,9 @@ Bot information
 | --- | --- |
 | Bot basic ID | @924tymss |
 | Link webhook | https://demo.syahdanfilsafan.codes/line/echo_bot.php |
-| Keterangan Singkat | Aplikasi Line bot ini di buat untuk memenuhi tugas dari decoding line chat bot. melalui aplikasi ini kita dapat melakukan berbagai fungsi untuk melakukan transaksi produk. | 
-
- Verify webhook:
- ![](https://i.ibb.co/1JT6Lb0/image.png)
+| Keterangan Singkat | Aplikasi Line bot ini di buat untuk memenuhi tugas dari decoding line chat bot. melalui aplikasi ini kita dapat melakukan berbagai fungsi untuk melakukan transaksi produk. 
+| --- | --- |
+|Verify webhook: |![](https://i.ibb.co/1JT6Lb0/image.png)
 
 Bot akan merespon Anda jika Anda menggunakan beberapa kata kunci berikut
 

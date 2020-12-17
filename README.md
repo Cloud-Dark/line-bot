@@ -1,3 +1,4 @@
+
 Bot Line Project by Mas Syahdan Filsafan
 
 Bot information
@@ -6,18 +7,17 @@ Bot information
 | --- | --- |
 | Bot basic ID | @924tymss |
 | Link webhook | https://demo.syahdanfilsafan.codes/line/echo_bot.php |
-| Keterangan Singkat | Aplikasi Line bot ini di buat untuk memenuhi tugas dari decoding line chat bot. melalui aplikasi ini kita dapat melakukan berbagai fungsi untuk melakukan transaksi produk. |
-
-V ![](RackMultipart20201217-4-1giu2xt_html_bd1e180d4f6b3206.png)
+| Keterangan Singkat | Aplikasi Line bot ini di buat untuk memenuhi tugas dari decoding line chat bot. melalui aplikasi ini kita dapat melakukan berbagai fungsi untuk melakukan transaksi produk. | ![](https://i.ibb.co/1JT6Lb0/image.png)
  erify webhook
 
 Bot akan merespon Anda jika Anda menggunakan beberapa kata kunci berikut
 
 | Nama Fungsi | Keterangan | Hasil |
 | --- | --- | --- |
-| Assalamualaikum, Selamat Pagi, Selamat Siang, Selamat Sore, Selamat Malam | Ucapan Selamat Datang | ![](RackMultipart20201217-4-1giu2xt_html_c18753de1e67940d.jpg) |
-| Produk | Memunculkan List Produk | ![](RackMultipart20201217-4-1giu2xt_html_4c567de8c29016b6.jpg) |
+| Assalamualaikum, Selamat Pagi, Selamat Siang, Selamat Sore, Selamat Malam | Ucapan Selamat Datang | ![](https://i.ibb.co/HXR6SWk/image.png) |
+| Produk | Memunculkan List Produk | ![](https://i.ibb.co/DbFD1B9/image.png) |
 | Harga (nama barang) | Memunculkan harga barangCara pengunaanHarga telur
- Harga susuHarga minyak goreng | ![](RackMultipart20201217-4-1giu2xt_html_2098f1b18d80ffc6.jpg) |
-| help | Memunculkan feature bantuan | ![](RackMultipart20201217-4-1giu2xt_html_6653637b5bf79d05.png) |
-| order | Ketika user ingin order produk dapat menggunakan fungsi berikut | ![](RackMultipart20201217-4-1giu2xt_html_27f4edae8ad76c03.png) |
+ Harga susuHarga minyak goreng | Memunculkan harga barang, Cara pengunaan, Harga telur, Harga susu, Harga minyak goreng |
+|![](https://i.ibb.co/rpKJ8qQ/image.png) |
+| help | Memunculkan feature bantuan | ![](https://i.ibb.co/n8rZGQk/image.png) |
+| order | Ketika user ingin order produk dapat menggunakan fungsi berikut | ![](https://i.ibb.co/pK7cW0z/image.png) |

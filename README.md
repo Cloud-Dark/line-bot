@@ -7,8 +7,9 @@ Bot information
 | --- | --- |
 | Bot basic ID | @924tymss |
 | Link webhook | https://demo.syahdanfilsafan.codes/line/echo_bot.php |
-| Keterangan Singkat | Aplikasi Line bot ini di buat untuk memenuhi tugas dari decoding line chat bot. melalui aplikasi ini kita dapat melakukan berbagai fungsi untuk melakukan transaksi produk. | ![](https://i.ibb.co/1JT6Lb0/image.png)
- erify webhook
+| Keterangan Singkat | Aplikasi Line bot ini di buat untuk memenuhi tugas dari decoding line chat bot. melalui aplikasi ini kita dapat melakukan berbagai fungsi untuk melakukan transaksi produk. | 
+ Verify webhook:
+ ![](https://i.ibb.co/1JT6Lb0/image.png)
 
 Bot akan merespon Anda jika Anda menggunakan beberapa kata kunci berikut
 
@@ -16,8 +17,6 @@ Bot akan merespon Anda jika Anda menggunakan beberapa kata kunci berikut
 | --- | --- | --- |
 | Assalamualaikum, Selamat Pagi, Selamat Siang, Selamat Sore, Selamat Malam | Ucapan Selamat Datang | ![](https://i.ibb.co/HXR6SWk/image.png) |
 | Produk | Memunculkan List Produk | ![](https://i.ibb.co/DbFD1B9/image.png) |
-| Harga (nama barang) | Memunculkan harga barangCara pengunaanHarga telur
- Harga susuHarga minyak goreng | Memunculkan harga barang, Cara pengunaan, Harga telur, Harga susu, Harga minyak goreng |
-|![](https://i.ibb.co/rpKJ8qQ/image.png) |
-| help | Memunculkan feature bantuan | ![](https://i.ibb.co/n8rZGQk/image.png) |
+| Harga (nama barang) | Memunculkan harga barang, Cara pengunaan, Harga telur, Harga susu, Harga minyak gorengk | ![](https://i.ibb.co/rpKJ8qQ/image.png) |
+| help | Memunculkan feature bantuan |![](https://i.ibb.co/n8rZGQk/image.png) |
 | order | Ketika user ingin order produk dapat menggunakan fungsi berikut | ![](https://i.ibb.co/pK7cW0z/image.png) |
